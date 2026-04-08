@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Braden",
+    "phone": "+19133410200",
+    "category": "roofer",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Kansas City's Roofing Authority",
+      "heroSubline": "Protecting homes and businesses across the metro. Reliable roofing solutions built to last.",
+      "aboutTitle": "Built on Kansas City Values",
+      "aboutText": [
+        "Braden Roofing started with a simple goal: providing honest, dependable roofing services to our neighbors in Kansas City. We're not just roofers; we're your neighbors, committed to safeguarding your homes and businesses from the unpredictable Missouri weather.",
+        "Our approach is straightforward: quality materials, expert craftsmanship, and transparent communication. We believe in doing the job right the first time, ensuring your roof stands strong against the elements year after year. From Brookside bungalows to Northland developments, we treat every project with the same dedication and care.",
+        "We're deeply rooted in the Kansas City community, actively participating in local initiatives and supporting organizations that make our city a better place. When you choose Braden Roofing, you're not just hiring a contractor; you're partnering with a team that cares about your property and our shared community."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Kansas City's unique climate and housing styles, ensuring tailored roofing solutions."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the highest-grade roofing materials designed to withstand Missouri's harsh weather conditions."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our skilled team delivers precise and durable roofing installations, repairs, and replacements."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "We keep you informed throughout the entire process, providing clear explanations and honest assessments."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Estimate",
+      "ctaSubline": "Protect your property with a reliable roof. Contact us today for a no-obligation quote."
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Comprehensive roof replacement services for homes and businesses in Kansas City.",
+        "description": "Is your roof showing signs of age, damage, or wear? Braden Roofing provides complete roof replacement services, ensuring your property is protected with a durable and reliable new roof. We understand the challenges that Kansas City's climate poses to roofing materials, from the freeze-thaw cycles of winter to the intense heat of summer. Our team will assess your existing roof, recommend the best replacement options based on your needs and budget, and handle the entire installation process with precision and care. \n\nWe work with a variety of roofing materials, including asphalt shingles, metal roofing, tile roofing, and more. Our experienced installers ensure that your new roof is properly installed and sealed, providing long-lasting protection against leaks, wind damage, and other weather-related issues. We also handle all necessary permitting and inspections to ensure compliance with local building codes. With Braden Roofing, you can trust that your roof replacement project will be completed efficiently, professionally, and to the highest standards.",
+        "process": [
+          "Step 1: Thorough roof inspection and assessment",
+          "Step 2: Material selection and project planning",
+          "Step 3: Old roof removal and disposal",
+          "Step 4: New roof installation and quality check"
+        ],
+        "benefits": [
+          "Enhanced property value",
+          "Improved energy efficiency",
+          "Increased protection from the elements",
+          "Long-lasting durability"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the project, but most residential replacements are completed within 1-3 days."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide range of roofing materials, including asphalt shingles, metal roofing, tile roofing, and more. Our team can help you choose the best option for your needs and budget."
+          },
+          {
+            "question": "Do you offer financing options for roof replacements?",
+            "answer": "Yes, we offer flexible financing options to help make your roof replacement project more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Reliable roof repair services to fix leaks, damage, and other roofing issues.",
+        "description": "From minor leaks to major storm damage, Braden Roofing provides prompt and professional roof repair services throughout the Kansas City metro. We understand that a damaged roof can quickly lead to further problems, such as water damage, mold growth, and structural issues. That's why we offer 24/7 emergency repair services to address urgent roofing needs.\n\nOur experienced technicians are equipped to handle a wide range of roof repairs, including shingle replacement, leak detection and repair, flashing repair, and more. We use only the highest-quality materials and proven techniques to ensure that your roof repairs are durable and long-lasting. We also provide thorough inspections to identify any underlying issues that may be contributing to the problem. Whether you have a leaky roof in Brookside or wind damage in Lee's Summit, Braden Roofing is here to provide reliable and affordable roof repair solutions.",
+        "process": [
+          "Step 1: Detailed roof inspection to identify the source of the problem",
+          "Step 2: Clear explanation of the repair options and costs",
+          "Step 3: Professional repair using quality materials",
+          "Step 4: Post-repair inspection to ensure the issue is resolved"
+        ],
+        "benefits": [
+          "Prevent further damage to your property",
+          "Extend the lifespan of your roof",
+          "Restore the integrity of your roofing system",
+          "Minimize repair costs with timely intervention"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my roof needs repair?",
+            "answer": "Signs that your roof may need repair include leaks, missing or damaged shingles, sagging, and water stains on your ceiling."
+          },
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We offer 24/7 emergency repair services and strive to respond to all repair requests as quickly as possible."
+          },
+          {
+            "question": "Do you offer a warranty on your roof repairs?",
+            "answer": "Yes, we offer a warranty on all of our roof repairs to ensure your peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Installation & Repair",
+        "shortDescription": "Protect your foundation with expert gutter installation and repair services.",
+        "description": "Properly functioning gutters are essential for protecting your home's foundation from water damage. Braden Roofing provides comprehensive gutter installation and repair services to ensure that your gutters are effectively channeling water away from your property. We understand the importance of having a properly functioning gutter system, especially with Kansas City's heavy rainfall and occasional ice storms.\n\nWe offer a variety of gutter styles and materials to suit your home's aesthetic and functional needs, including seamless aluminum gutters, copper gutters, and more. Our experienced installers ensure that your gutters are properly sloped and secured, preventing clogs and leaks. We also provide gutter cleaning and maintenance services to keep your gutters free of debris and functioning optimally. Whether you need new gutters installed on a new home in Olathe or gutter repairs on an older home in Waldo, Braden Roofing is here to help.",
+        "process": [
+          "Step 1: Assessment of your home's gutter needs",
+          "Step 2: Selection of the appropriate gutter style and materials",
+          "Step 3: Professional gutter installation or repair",
+          "Step 4: Gutter cleaning and maintenance (optional)"
+        ],
+        "benefits": [
+          "Protect your foundation from water damage",
+          "Prevent soil erosion and landscaping damage",
+          "Extend the lifespan of your roof",
+          "Enhance your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, or more frequently if you have trees near your home."
+          },
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are custom-made on-site to fit your home's exact dimensions, eliminating seams and reducing the risk of leaks."
+          },
+          {
+            "question": "Do you offer gutter guards?",
+            "answer": "Yes, we offer gutter guards to help prevent debris from clogging your gutters."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Fast and reliable storm damage repair services to restore your roof and protect your home.",
+        "description": "Kansas City is no stranger to severe weather, including thunderstorms, hail, and tornadoes. Braden Roofing provides prompt and professional storm damage repair services to help you restore your roof and protect your home after a storm. We understand the stress and urgency that comes with storm damage, and we're committed to providing fast and reliable service to get your roof back in shape.\n\nOur experienced team will assess the damage to your roof, provide a detailed estimate for repairs, and work directly with your insurance company to streamline the claims process. We handle all types of storm damage, including wind damage, hail damage, and water damage. Whether you need shingle replacement, leak repair, or complete roof replacement, Braden Roofing is here to help you recover from the storm.",
+        "process": [
+          "Step 1: Emergency roof tarping to prevent further damage",
+          "Step 2: Detailed damage assessment and estimate",
+          "Step 3: Assistance with insurance claims",
+          "Step 4: Professional storm damage repair"
+        ],
+        "benefits": [
+          "Minimize further damage to your property",
+          "Restore the integrity of your roofing system",
+          "Simplify the insurance claims process",
+          "Get your roof back to its pre-storm condition"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my roof is damaged in a storm?",
+            "answer": "The first thing you should do is contact your insurance company and a qualified roofing contractor like Braden Roofing."
+          },
+          {
+            "question": "How long do I have to file a storm damage claim?",
+            "answer": "The deadline for filing a storm damage claim varies by insurance company, so it's important to contact your insurance company as soon as possible."
+          },
+          {
+            "question": "Will storm damage repair affect my insurance rates?",
+            "answer": "It's possible that a storm damage claim could affect your insurance rates, but this varies by insurance company and policy."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems and ensure the longevity of your roof.",
+        "description": "Regular roof inspections are essential for maintaining the health and longevity of your roofing system. Braden Roofing provides comprehensive roof inspections for homes and businesses throughout the Kansas City metro. Our experienced inspectors will thoroughly assess your roof, identifying any potential problems, such as leaks, damage, or wear. We provide a detailed report of our findings, along with recommendations for repairs or maintenance.\n\nWhether you're buying or selling a home, or simply want to ensure that your roof is in good condition, a roof inspection from Braden Roofing can provide valuable peace of mind. We understand the unique challenges that Kansas City's climate poses to roofing materials, and we'll provide tailored recommendations to help you protect your investment.",
+        "process": [
+          "Step 1: Visual inspection of the roof surface",
+          "Step 2: Inspection of the attic for signs of leaks or damage",
+          "Step 3: Assessment of the gutters and downspouts",
+          "Step 4: Detailed report with findings and recommendations"
+        ],
+        "benefits": [
+          "Identify potential problems early",
+          "Prevent costly repairs",
+          "Extend the lifespan of your roof",
+          "Gain peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, or more frequently if you live in an area with severe weather."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "A roof inspection includes a visual inspection of the roof surface, an inspection of the attic for signs of leaks or damage, and an assessment of the gutters and downspouts."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection varies depending on the size and complexity of the project. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Expert commercial roofing services for businesses in Kansas City, MO.",
+        "description": "Braden Roofing provides comprehensive commercial roofing services for businesses throughout the Kansas City metro. We understand the unique needs of commercial properties, and we're committed to providing durable, reliable roofing solutions that protect your investment. From flat roofs to sloped roofs, we have the expertise and experience to handle all types of commercial roofing projects.\n\nWe offer a variety of commercial roofing materials, including TPO, EPDM, and modified bitumen. Our experienced installers ensure that your commercial roof is properly installed and sealed, providing long-lasting protection against leaks, wind damage, and other weather-related issues. We also offer commercial roof repair and maintenance services to keep your roof in top condition.",
+        "process": [
+          "Step 1: Thorough assessment of your commercial roofing needs",
+          "Step 2: Selection of the appropriate roofing materials",
+          "Step 3: Professional commercial roof installation or repair",
+          "Step 4: Ongoing roof maintenance and inspection services"
+        ],
+        "benefits": [
+          "Protect your commercial property from the elements",
+          "Extend the lifespan of your commercial roof",
+          "Improve energy efficiency",
+          "Minimize business disruptions"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you install?",
+            "answer": "We install a variety of commercial roofing systems, including TPO, EPDM, and modified bitumen."
+          },
+          {
+            "question": "Do you offer a warranty on your commercial roofing services?",
+            "answer": "Yes, we offer a warranty on all of our commercial roofing services to ensure your peace of mind."
+          },
+          {
+            "question": "How can I schedule a commercial roof inspection?",
+            "answer": "Contact us today to schedule a commercial roof inspection."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Braden is proud to offer comprehensive roofing services to Overland Park, Missouri. We understand the unique needs of homeowners in this established suburban community, known for its homes built primarily in the 1970s through 1990s. From addressing wear and tear on older roofs to providing durable solutions that withstand the harsh Kansas City climate, we're committed to keeping your home protected.\n\nOur team is experienced in working with a variety of roofing materials commonly found in Overland Park, including asphalt shingles, tile, and wood shake. We know the importance of proper installation and maintenance to ensure your roof can withstand the cold winters, ice storms, and occasional severe weather that this area experiences. Braden is dedicated to providing reliable and affordable roofing solutions for Overland Park residents.",
+        "localContext": "Overland Park, Missouri, is a large suburban city known for its well-maintained neighborhoods and family-friendly environment with a mix of established homes from the 70s-90s.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Braden provides expert roofing services to the growing community of Olathe, Missouri. We specialize in meeting the needs of families in this rapidly developing area, known for its many family-oriented housing developments that sprung up from the 1980s through the 2000s. Whether you need a new roof installation, repairs, or routine maintenance, Braden is here to help.\n\nWe understand the importance of having a reliable roof to protect your family and investment. Our team is skilled in working with the roofing materials most commonly used in Olathe homes and can provide solutions to combat the harsh Kansas City climate which includes cold winters and ice storms. We are committed to providing quality workmanship and excellent customer service to all our Olathe clients.",
+        "localContext": "Olathe, Missouri, is a family-oriented city with many newer housing developments dating from the 1980s-2000s.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Gardner",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Braden is your trusted roofing partner in Lee's Summit, Missouri. We've been serving families in this vibrant community for years, providing top-quality roofing services to protect their homes. Lee's Summit is known for its established family homes, many of which were built in the 1970s through 1990s. Braden has extensive experience working on homes of all ages in Lee's Summit.\n\nWe understand the challenges that the Kansas City climate poses to roofs, including cold winters, ice storms, and severe weather. Our team is equipped to handle all types of roofing projects, from repairs to full replacements. We use only the highest-quality materials and employ skilled technicians to ensure your roof is durable, reliable, and long-lasting. Braden is dedicated to providing exceptional roofing solutions for Lee's Summit residents.",
+        "localContext": "Lee's Summit, Missouri, is a suburban city with a mix of established family homes from the 1970s-1990s.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Braden is proud to serve the diverse roofing needs of Kansas City, Missouri. From historic homes in the urban core to newer developments in the suburbs, we offer comprehensive roofing services to protect your home or business. Kansas City experiences a wide range of weather conditions, and we understand the importance of a durable and reliable roof.\n\nOur team is experienced in working with all types of roofing materials, including asphalt shingles, tile, metal, and more. We are committed to providing quality workmanship and excellent customer service to all our Kansas City clients. Whether you need a minor repair or a complete roof replacement, Braden is here to help.",
+        "localContext": "Kansas City, Missouri, is a major metropolitan area with diverse architecture and roofing styles.",
+        "nearbyAreas": [
+          "Independence",
+          "Overland Park",
+          "Gladstone"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Braden is dedicated to providing top-notch roofing services to the residents of Independence, Missouri. As a city with a rich history and diverse housing stock, Independence presents unique roofing challenges. We understand the importance of preserving the integrity of older homes while ensuring modern protection against the elements.\n\nOur team is experienced in working with a variety of roofing materials commonly found in Independence, including asphalt shingles, wood shake, and tile. We are committed to providing reliable and affordable roofing solutions that meet the specific needs of our Independence clients. From repairs to replacements, Braden is here to help protect your home.",
+        "localContext": "Independence, Missouri, is a historic city with a mix of older and newer homes.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Lee's Summit",
+          "Blue Springs"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Braden is your local roofing expert in Blue Springs, Missouri. We understand the specific needs of homeowners in this growing suburban community. With a mix of established neighborhoods and newer developments, Blue Springs requires a roofing contractor that can handle a variety of projects.\n\nWe offer a full range of roofing services, from repairs to replacements, using only the highest-quality materials and skilled technicians. We are committed to providing exceptional customer service and ensuring your complete satisfaction. Let Braden protect your home in Blue Springs with a durable and reliable roof.",
+        "localContext": "Blue Springs, Missouri, is a growing suburban city with a mix of housing styles.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Independence",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Braden is pleased to offer roofing services to Lenexa, Missouri, a thriving city in the Kansas City metropolitan area. We understand the importance of a well-maintained roof in protecting your home from the elements. Lenexa experiences a range of weather conditions, and we are here to ensure your roof is up to the challenge.\n\nOur team is experienced in working with a variety of roofing materials and styles commonly found in Lenexa homes. We are committed to providing quality workmanship and excellent customer service to all our Lenexa clients. Whether you need a minor repair or a complete roof replacement, Braden is here to help.",
+        "localContext": "Lenexa, Missouri, is a suburban city with a mix of residential and commercial properties.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "Braden proudly serves the roofing needs of Shawnee, Kansas. We understand the diverse housing styles and weather patterns that impact Shawnee homes. Our comprehensive roofing services are designed to protect your investment and ensure your family's safety.\n\nFrom minor repairs to complete roof replacements, Braden is equipped to handle any roofing project in Shawnee. We use only the highest-quality materials and employ skilled technicians to deliver exceptional results. We are committed to providing reliable and affordable roofing solutions to the Shawnee community.",
+        "localContext": "Shawnee, Kansas, is a well-established city with a mix of older and newer homes.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Overland Park",
+          "Kansas City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "Braden Roofing did a fantastic job replacing our roof after the hailstorm last spring. The crew was professional, efficient, and cleaned up everything perfectly. Our new roof looks great, and we feel much more secure now. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "We had a section of gutter that was pulling away from the house. Braden Roofing came out quickly and fixed it securely. The price was reasonable, and the service was excellent.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Emily P.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "I had a persistent leak in my roof that other companies couldn't seem to fix. Braden Roofing found the source of the leak and repaired it quickly and effectively. Very happy with their work!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "Braden Roofing was a lifesaver after the recent tornado. They responded immediately, tarped our roof to prevent further damage, and worked with our insurance company to get the repairs done quickly. Excellent service!",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 4,
+        "service": "Roof Inspection",
+        "text": "We needed a roof inspection before selling our house. Braden Roofing provided a thorough inspection report and identified a few minor issues that we were able to address before putting the house on the market. Very professional and helpful.",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Commercial Roofing",
+        "text": "Braden Roofing replaced the roof on our office building. The project was completed on time and within budget. The new roof looks great, and we haven't had any issues since. Highly recommend for commercial roofing needs!",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Braden Roofing | Kansas City Roofing",
+        "description": "Reliable roofing services in Kansas City, MO. Roof repair, replacement, gutters, and storm damage. Free estimates!"
+      },
+      "about": {
+        "title": "About Braden Roofing | Kansas City, MO",
+        "description": "Learn about Braden Roofing's commitment to quality roofing services in Kansas City. Local experts you can trust."
+      },
+      "services": {
+        "title": "Braden Roofing Services | Kansas City",
+        "description": "Comprehensive roofing services in Kansas City. Repair, replacement, gutters, inspections, storm damage. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Braden Roofing | Kansas City, MO",
+        "description": "Contact Braden Roofing for roofing services in Kansas City and surrounding areas. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Braden Roofing Reviews | Kansas City, MO",
+        "description": "Read reviews from satisfied Braden Roofing customers in Kansas City. Quality roofing services you can rely on."
+      },
+      "service-areas": {
+        "title": "Braden Roofing Service Areas | Kansas City",
+        "description": "Braden Roofing provides roofing services in Kansas City, Overland Park, Olathe, Lee's Summit, and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-repair": "/images/service-roof-repair.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
